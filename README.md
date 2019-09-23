@@ -2,7 +2,7 @@
 This is a repository for the problems we've encountered in our projects. Many of them are from real applications in our business. They deserve thorough investigation and hands-on.
 
 ##  Topic 1: hand pose estimation on desktop
-Human computer interation is a fundamental research topic with numerious applications in our life, such as keyboard, mouse, touchsceen, etc. Nowadays, people are trying to extend interaction between virtual world and real world, such as AR and MR. We propose a new gesture interation which can be applied in desktop games or destop study. Refer to sample videos [](). This is a localization problem similar to face landmark localization [https://arxiv.org/abs/1805.05563](https://arxiv.org/abs/1805.05563) or human pose estimation [https://arxiv.org/abs/1603.06937](https://arxiv.org/abs/1603.06937).
+Human computer interation is a fundamental research topic with numerious applications in our life, such as keyboard, mouse, touchsceen, etc. Nowadays, people are trying to extend interaction between virtual world and real world, such as AR and MR. We propose a new gesture interation which can be applied in desktop games or destop study. Refer to sample videos [sample video](https://v.youku.com/v_show/id_XNDM3MjcxMzEyMA==.html?spm=a2hzp.8244740.0.0). This is a localization problem similar to face landmark localization [https://arxiv.org/abs/1805.05563](https://arxiv.org/abs/1805.05563) or human pose estimation [https://arxiv.org/abs/1603.06937](https://arxiv.org/abs/1603.06937).
 
 Goal: Localize fingertips on desktop.
 
